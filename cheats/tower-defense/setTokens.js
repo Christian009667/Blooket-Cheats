@@ -12,7 +12,7 @@
 
 /* THE UPDATE CHECKER IS ADDED DURING COMMIT PREP, THERE MAY BE REDUNDANT CODE, DO NOT TOUCH */
 
-(() => {
+(() => {998659958695859859869589589559869859859869
     const cheat = (async () => {
         let i = document.createElement('iframe');
         document.body.append(i);
